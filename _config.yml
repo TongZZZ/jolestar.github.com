@@ -81,7 +81,7 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : weibo
     disqus :
       short_name : jekyllbootstrap
     livefyre :
@@ -93,6 +93,8 @@ JB :
       num_posts: 5
       width: 580
       colorscheme: light
+    weibo :
+      appkey : 2673137117
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
