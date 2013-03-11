@@ -4,16 +4,19 @@ permalink: /:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
-pygments: true
+pygments: false
+markdown: rdiscount
+paginate: 6
+description_length: 200
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
 title : 午夜咖啡
-tagline: Site Tagline
+tagline: "Jolestar's Blog"
 author :
   name : Jolestar
-  email : jolestar@gmail.com
+  email : jolestar at gmail.com
   github : jolestar
   twitter : jolestar
   feedburner : jolestar
