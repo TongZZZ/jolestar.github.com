@@ -21,6 +21,8 @@ tags:
 
 登陆上去看了下,默认安装的是Debian5.我从web面板上换成Debian6. ramhost的系统优化的不错。刚装的系统，只占用3m内存。主要也是因为ramhost刚开始的系统及其精简,连ssh都没有。装了ssh-server，openvpn,又装了mysql,apache,php. 把wordpress搭建起来,就用了678M内存了。
 
+<!--more-->
+
 下面是 UNIX Benchmarks 的测评结果:
 
     BYTE UNIX Benchmarks (Version 4.1-wht.2)
