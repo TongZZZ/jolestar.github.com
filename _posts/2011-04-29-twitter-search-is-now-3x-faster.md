@@ -15,6 +15,8 @@ tags:
 
 原始地址() 由于众所周知的原因，原始地址不能正常访问，所以转帖到这儿。
 
+<!--more-->
+
 ### Twitter Search is Now 3x Faster
 
 In the spring of 2010, the search team at Twitter started to rewrite our search engine in order to serve our ever-growing traffic, improve the end-user latency and availability of our service, and enable rapid development of new search features. As part of the effort, we launched a new [real-time search engine][1], changing our back-end from MySQL to a real-time version of [Lucene][2]. Last week, we launched a replacement for our Ruby-on-Rails front-end: a Java server we call Blender. We are pleased to announce that this change has produced a 3x drop in search latencies and will enable us to rapidly iterate on search features in the coming months.
