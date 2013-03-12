@@ -17,6 +17,8 @@ tags:
 开始怀疑是varnish的 between\_bytes\_timeout 和 first\_byte\_timeout 的设置问题,但把这两个参数调大,问题依旧。  
 最后发现是varnish sess_timeout 的问题。
 
+<!--more-->
+
 > first\_byte\_timeout  是varnish等待从后端接受第一个字节的超时时间。默认60秒。如果60秒内第一个字节都没收到，则给客户端返回503。一般情况下默认值都过于大，因为varnish的后端一般都在内网。
 > 
 > between\_bytes\_timeout 可以认为是varnish等待后端响应的 idel timeout。默认60秒。如果后端输出比较慢,传了一部分数据后，连接又空闲了60秒，varnish会放弃本次请求，给客户端发送503错误。
