@@ -11,11 +11,11 @@ tags:
   - 爬行在网上
   - vpn
 ---
-# 
+
 
 鉴于天朝的墙越来越高，所以想入手一个vps 搭梯子翻墙。
 
-网上搜索一下，国外vps服务商中，ramhost的评价似乎不错。ramhost的vps从 **$3.99 到 **$29.99**** 不等****. ****看的那天正好便宜的都没了，就买了个$19.9 的.
+网上搜索一下，国外vps服务商中，ramhost的评价似乎不错。ramhost的vps从 $3.99 到 $29.99 不等. 看的那天正好便宜的都没了，就买了个$19.9 的.
 
 订单付款第二天,ramhost发邮件说服务器好了。ramhost的web面板很简单，基本就只能重装系统和重启系统.不如dreamhost那么强大,所以不适合对linux不熟悉的用户。
 
@@ -53,12 +53,12 @@ tags:
          FINAL SCORE                                                     222.8
 
 性价比还可以。  
-ramhost上只能搭建openvpn(搭建教程在此:)。
+ramhost上只能搭建openvpn[搭建教程](https://forum.ramhost.us/bbs/viewtopic.php?id=4)。
 
-android默认不支持openvpn,于是又在手机上折腾openvpn。需要有root权限，先安装 BusyBox(有的改造版的ROM里会带着) ,再安装OpenVPN Installer，OpenVPN Settings。将openvpn client 的配置文件，证书以及key拷贝到手机的/sdcard/openvpn/文件夹里,运行OpenVPN Settings进行设置就可以了。(详细安装教程在此).  
+android默认不支持openvpn,于是又在手机上折腾openvpn。需要有root权限，先安装 BusyBox(有的改造版的ROM里会带着) ,再安装OpenVPN Installer，OpenVPN Settings。将openvpn client 的配置文件，证书以及key拷贝到手机的/sdcard/openvpn/文件夹里,运行OpenVPN Settings进行设置就可以了。[详细安装教程](http://vpnblog.info/android-openvpn-strongvpn.html).  
 需要注意的是要启用Open VPN Settings的 Fix DNS功能，否则被功夫网dns污染的网站(如 twitter,youtube)也是无法访问的。  
 linux下使用Openvpen很简单，将openvpn的client配置文件在NetworkManager中import一下就行了。  
-windows下openvpn配置说明在此()  
+[windows下openvpn配置说明](https://forum.ramhost.us/bbs/viewtopic.php?id=165)  
 感谢 @[蓝槐locust][1] 以前提供的dreamhost空间。  
 另外感觉每月$20 翻墙有点奢侈,如果有熟悉的朋友需要vpn或者ssh代理，请联系我。我给开帐号。
 

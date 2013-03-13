@@ -6,11 +6,10 @@ permalink: /varnish-timeout
 sina_t:
   - 'true'
 tags:
-  - 全部
   - server
   - varnish
 ---
-# 
+
 
 今天调试一个bug。手机通过2g网络上传文件的时候,常遇到服务器报503错误,并且概率比较大。  
 先从程序查起,再到认证代理服务器,再到varnish。发现是varnish在文件还没有传完的时候就断开了连接，给客户端返回503。  

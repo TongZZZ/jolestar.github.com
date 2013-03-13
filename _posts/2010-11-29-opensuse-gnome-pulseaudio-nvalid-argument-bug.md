@@ -21,6 +21,6 @@ tags:
 
 搜索了一下，应该是一个bug
 
-https://bugs.launchpad.net/ubuntu/ source/pulseaudio/ bug/187963
+<https://bugs.launchpad.net/ubuntu/source/pulseaudio/bug/187963>
 
 修改一下 pulseaudio Local Sound Server 的设置，Multicast/RTP 选项，把下面两个复选框(Enable Multicast/RTP  sender,Enable Multicast/RTP  receiver)都给禁用了,就没这个错误了。

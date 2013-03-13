@@ -13,7 +13,7 @@ tags:
 ---
 # 
 
-原始地址() 由于众所周知的原因，原始地址不能正常访问，所以转帖到这儿。
+原始地址[Twitter Search is Now 3x Faster](http://engineering.twitter.com/2011/04/twitter-search-is-now-3x-faster_1656.html)) 由于众所周知的原因，原始地址不能正常访问，所以转帖到这儿。
 
 <!--more-->
 
