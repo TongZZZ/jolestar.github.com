@@ -28,6 +28,8 @@ tags:
 
 	sudo gem install rdiscount
 
+推荐使用rdiscount作为Markdown语法解析工具，速度快，兼容性强。
+
 ##使用
 
 使用起来很简单。按照 jekyll的标准设置目录，修改_config.yml配置文件，然后用
@@ -41,7 +43,7 @@ tags:
 
 ##git仓库
 
-git仓库可以托管到github上，也可以自己搭建。如果托管到github上作为page服务，请参考 <http://pages.github.com/>
+git仓库可以托管到github上，也可以自己搭建。如果托管到github上作为page服务，请参考 <http://pages.github.com/>。另外也可以考虑使用国人的 [gitcafe](https://gitcafe.com/)。
 
 ##历史数据导入
 
@@ -52,7 +54,6 @@ git仓库可以托管到github上，也可以自己搭建。如果托管到githu
 
 我用的是一个wordpress插件 <https://github.com/benbalter/wordpress-to-jekyll-exporter>。效果还好，只是部分链接转换的时候会坏掉。
 
-只需要有个git仓库即可。
 
 ## 扩展解决方案
 
@@ -227,7 +228,13 @@ jekyll.sh
 
 将这两个文件放置到服务器的git workspace路径下的.git/hooks中，然后设置定时任务定时从仓库pull源码，如果有更新则会重新生成页面。默认的路径在 workspace/_site 目录下，将ngnix的web路径指向到该目录即可。
 
-至此大功告成。可以使用任意自己喜欢的文本编辑器来写博客了。除了vim，另外推荐一个 Markdown 的编辑器: Mou.
+至此大功告成。可以使用任意自己喜欢的文本编辑器来写博客了。除了vim，另外推荐一个 Markdown 的编辑器: Mou。
+
+##参考资料
+
+* [YAML头](http://wiki.github.com/mojombo/jekyll/yaml-front-matter)
+* [Markdown](http://daringfireball.net/projects/markdown/syntax) [Markdown中文说明](http://wowubuntu.com/markdown)
+* [Liquid](http://www.liquidmarkup.org/) 与 [Jekyll-Liquid-extensions](http://wiki.github.com/mojombo/jekyll/liquid-extensions)
 
 [google-code-prettify]: <http://google-code-prettify.googlecode.com/> "google-code-prettify"
 [SyntaxHighlighter]: <http://alexgorbatchev.com/SyntaxHighlighter/> "SyntaxHighlighter"
