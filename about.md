@@ -14,9 +14,13 @@ group: "navigation"
 
 西北王氏，自幼放羊，排行老五，自称放羊娃王老五
 
+[@jolestar at twitter][twitter]
+[@jolestar at weibo][weibo]
+[jolestar google profile][google]
+
 [twitter]: http://twitter.com/jolestar
 
-[新浪微博]: http://weibo.com/jolestar
+[weibo]: http://weibo.com/jolestar
 
 [google]: http://www.google.com/profiles/jolestar
 
