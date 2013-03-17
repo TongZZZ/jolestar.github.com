@@ -12,9 +12,12 @@ tags:
   - java
   - twitter
   - yayaweibotong
+  
 ---
 
 **更新，该应用已经停止**
+
+<!--more-->
 
 ### 丫丫微博通介绍
 
