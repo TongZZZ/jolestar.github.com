@@ -162,16 +162,16 @@ git仓库可以托管到github上，也可以自己搭建。如果托管到githu
 
 	有名的有,[google-code-prettify]和 [SyntaxHighlighter]。后者功能比较强大，但也比较臃肿,最后选择了 [google-code-prettify]
 	
-		<script type="text/javascript" src="/assets/js/jquery-1.9.1.min.js"></script>
+		<script type="text/javascript" src="{{ ASSET_PATH }}/js/jquery-1.9.1.min.js"></script>
 		<script type="text/javascript">
-		       $(function() {
-		           $('pre').addClass('prettyprint').attr('style', 'overflow:auto');
-		       });
-		       $(function() {
-		            window.prettyPrint && prettyPrint();
-		       });
+		    $(function() {
+		        $('pre').addClass('prettyprint').attr('style', 'overflow:auto');
+		    });
+		    $(function() {
+		         window.prettyPrint && prettyPrint();
+		    });
 		</script>
-		<script src="/assets/google-code-prettify/run_prettify.js?autoload=true&amp;skin=sunburst" defer="defer"></script>  
+		<script src="{{ ASSET_PATH }}/google-code-prettify/prettify.js" defer="defer"></script>
 
 
 
