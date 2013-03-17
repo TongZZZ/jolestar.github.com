@@ -22,7 +22,7 @@ emailto="jolestar@gmail.com"
 echo $workspace
 cd $workspace
 
-jekyll --no-auto  --no-safe
+jekyll --no-auto  --safe
 
 exitCode=$?
 
