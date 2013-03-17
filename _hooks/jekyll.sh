@@ -1,6 +1,6 @@
 #!/bin/bash
 
-GIT_DIR=$1
+workspace=$1
 
 send_email_and_exit() {
   recipient=$1
@@ -19,8 +19,8 @@ echo "Running at "`date`
 
 emailto="jolestar@gmail.com"
 
-echo  $GIT_DIR
-cd $GIT_DIR
+echo $workspace
+cd $workspace
 
 jekyll --no-auto  --no-safe
 
