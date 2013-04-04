@@ -98,6 +98,7 @@ JB :
       colorscheme: light
     weibo :
       appkey : 2673137117
+      ralateuid : 1648815335
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
