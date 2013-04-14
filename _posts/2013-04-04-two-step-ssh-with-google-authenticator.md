@@ -7,6 +7,7 @@ tags:
   - startup
   - 运维
   - ssh
+  - linux
 ---
 
 一般大公司的服务器都通过 RSA SecurID 来实现 两步(two-step/two-factor) ssh 验证,但这个东西一个要几百块钱，对个人或者小公司来说不划算。但如果直接ssh开放裸奔也不放心，所以考虑使用google-authenticator基于软件实现两步验证。
