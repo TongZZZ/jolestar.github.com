@@ -25,7 +25,7 @@ tags:
 先安装pam的devel包: apt系列的是 libpam0g-dev，yum系列的是 pam-devel
 
 	git clone https://code.google.com/p/google-authenticator/
-	cd google-authenticator/
+	cd google-authenticator/libpam
 	make
 	make install
 	
