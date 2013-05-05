@@ -163,7 +163,7 @@ tags:
 7. 更新仓库
 
 		cp ~/rpmbuild/RPMS/x86_64/git-1.8.2.1-1.x86_64.rpm /yum/centos/5/x86_64/RPMS/
-		createrepo --update /yum
+		createrepo --update /yum/centos/5/x86_64/
 		
 	在其他服务器上使用yum list git看看git的新版本是否检测到了。如果未检测到可能需要yum clean all清空一下缓存。
 
