@@ -75,3 +75,7 @@ XXXXBeanInfo类即Swing Bean绑定机制的定义类。注意命名规则,XXX类
 ![mongodb config](https://github.com/jolestar/jmeter-mongodb-plugin/raw/master/screenshots/config.png)
 
 ![mongodb result saver](https://github.com/jolestar/jmeter-mongodb-plugin/raw/master/screenshots/result-saver.png)
+
+## 扩展话题
+
+JMeter作为回环测试以及压力测试是一个非常不错的工具，但由于用例管理仅限于GUI客户端模式，输出的是xml文件，不便于团队共同维护。如果将JMeter的gui改造成web界面模式，然后用例保存到数据库中，作为自动化测试工具使用应该非常不错。
