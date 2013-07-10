@@ -2,7 +2,7 @@
 title: 用Mencoder和FFmpeg为Android/IPhone转换视频
 author: jolestar
 layout: post
-permalink: /convert-video-for-phone-with_mencoder
+permalink:  /convert-video-for-phone-with_mencoder/
 tags:
   - 全部
   - linux

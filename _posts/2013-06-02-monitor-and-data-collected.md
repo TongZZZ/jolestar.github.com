@@ -2,7 +2,7 @@
 title: 创业公司的数据收集以及监控系统方案
 author: jolestar
 layout: post
-permalink: /monitor-and-data-collect
+permalink:  /monitor-and-data-collect/
 tags:
   - startup
   - 运维

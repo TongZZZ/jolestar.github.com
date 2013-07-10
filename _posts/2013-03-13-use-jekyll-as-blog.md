@@ -2,7 +2,7 @@
 title: 使用jeklly搭建自己的blog
 author: jolestar
 layout: post
-permalink: /use-jekyll-as-blog
+permalink:  /use-jekyll-as-blog/
 tags:
   - blog
   - 爬行在网上

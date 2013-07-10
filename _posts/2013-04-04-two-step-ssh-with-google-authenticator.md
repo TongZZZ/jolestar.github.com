@@ -2,7 +2,7 @@
 title: 使用google-authenticator做两步ssh验证
 author: jolestar
 layout: post
-permalink: /two-step-ssh-with-google-authenticator
+permalink:  /two-step-ssh-with-google-authenticator/
 tags:
   - startup
   - 运维

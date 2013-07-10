@@ -2,7 +2,7 @@
 title: salt系列之初体验
 author: jolestar
 layout: post
-permalink: /salt-start
+permalink:  /salt-start/
 published: false
 tags:
   - salt

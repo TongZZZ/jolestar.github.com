@@ -2,7 +2,7 @@
 title: '[转]Twitter Search is Now 3x Faster'
 author: jolestar
 layout: post
-permalink: /twitter-search-is-now-3x-faster
+permalink:  /twitter-search-is-now-3x-faster/
 sina_t:
   - 'true'
 tags:

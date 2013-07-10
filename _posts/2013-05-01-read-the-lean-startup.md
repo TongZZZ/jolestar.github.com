@@ -2,7 +2,7 @@
 title: 读《精益创业》
 author: jolestar
 layout: post
-permalink: /read-the-lean-startup
+permalink:  /read-the-lean-startup/
 published: false
 tags:
   - 读书笔记

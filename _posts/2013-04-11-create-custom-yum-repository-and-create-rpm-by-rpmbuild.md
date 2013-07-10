@@ -2,7 +2,7 @@
 title: 搭建内部的yum仓库以及通过rpmbuild创建rpm包
 author: jolestar
 layout: post
-permalink: /create-custom-yum-repository-and-create-rpm-by-rpmbuild
+permalink:  /create-custom-yum-repository-and-create-rpm-by-rpmbuild/
 tags:
   - startup
   - 运维

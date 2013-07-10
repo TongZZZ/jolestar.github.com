@@ -2,7 +2,7 @@
 title: Dropbox的nautilus插件导致 nautilus 不能启动的问题
 author: jolestar
 layout: post
-permalink: /libnautilus-dropbox-nautilus-crash
+permalink:  /libnautilus-dropbox-nautilus-crash/
 sina_t:
   - 'true'
 tags:

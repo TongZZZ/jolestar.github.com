@@ -2,7 +2,7 @@
 title: varnish的timeout设置
 author: jolestar
 layout: post
-permalink: /varnish-timeout
+permalink:  /varnish-timeout/
 sina_t:
   - 'true'
 tags:

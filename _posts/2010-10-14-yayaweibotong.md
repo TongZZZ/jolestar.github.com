@@ -2,7 +2,7 @@
 title: 丫丫微博通开发日志
 author: jolestar
 layout: post
-permalink: /yayaweibotong
+permalink:  /yayaweibotong/
 sina_t:
   - 'true'
 tags:

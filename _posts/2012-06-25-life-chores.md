@@ -2,7 +2,7 @@
 title: 每个生病的人都是一个林黛玉
 author: jolestar
 layout: post
-permalink: /life-chores
+permalink:  /life-chores/
 tags:
   - 心情日记
   - 北漂生活

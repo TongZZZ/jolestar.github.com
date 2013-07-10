@@ -2,7 +2,7 @@
 title: 搬家到国外
 author: jolestar
 layout: post
-permalink: /migrants-abroad
+permalink:  /migrants-abroad/
 sina_t:
   - 'true'
 openid_comments:

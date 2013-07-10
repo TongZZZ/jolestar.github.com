@@ -2,7 +2,7 @@
 title: 博客迁移到ramhost
 author: jolestar
 layout: post
-permalink: /move-blog-to-ramhost
+permalink:  /move-blog-to-ramhost/
 sina_t:
   - 'true'
 tags:

@@ -2,7 +2,7 @@
 title: opensuse 下 pulseaudio 的一个bug
 author: jolestar
 layout: post
-permalink: /opensuse-gnome-pulseaudio-nvalid-argument-bug
+permalink:  /opensuse-gnome-pulseaudio-nvalid-argument-bug/
 sina_t:
   - 'true'
 tags:

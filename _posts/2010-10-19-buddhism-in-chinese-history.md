@@ -2,7 +2,7 @@
 title: 读中国历史中的佛教
 author: jolestar
 layout: post
-permalink: /buddhism-in-chinese-history ‎
+permalink:  /buddhism-in-chinese-history ‎/
 tags:
   - 历史
   - 佛教

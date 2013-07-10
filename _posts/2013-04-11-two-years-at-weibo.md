@@ -2,7 +2,7 @@
 title: 微博两年半
 author: jolestar
 layout: post
-permalink: /two-years-at-weibo
+permalink:  /two-years-at-weibo/
 published: false
 tags:
   - career

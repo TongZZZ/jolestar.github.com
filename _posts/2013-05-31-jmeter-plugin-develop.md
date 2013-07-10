@@ -2,7 +2,7 @@
 title: Jmeter插件开发
 author: jolestar
 layout: post
-permalink: /jmeter-plugin-develop
+permalink:  /jmeter-plugin-develop/
 tags:
   - jmeter
   - 测试

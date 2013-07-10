@@ -2,7 +2,7 @@
 title: 近期读书总结-网站运维,项目百态,精益开发实战,Go语言编程等
 author: jolestar
 layout: post
-permalink: /recently-reading-notes
+permalink:  /recently-reading-notes/
 tags:
   - 读书笔记
   - book
