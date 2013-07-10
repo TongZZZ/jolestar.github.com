@@ -1,5 +1,5 @@
 ---
-title: Jmeter插件开发
+title: JMeter插件开发
 author: jolestar
 layout: post
 permalink:  /jmeter-plugin-develop/
